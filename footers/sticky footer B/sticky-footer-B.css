@@ -1,0 +1,10 @@
+.content {
+  min-height: calc(100vh - 50px);
+  background-color: grey;
+
+}
+
+.footer {
+  height: 50px;
+  background-color: yellow;
+}
